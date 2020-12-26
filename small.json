@@ -126,7 +126,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/scotconsulate"
+                 "value":"http:\/\/www.nyan.cat\/"
                 }],
          "type":"tilelayer",
          "visible":true,
