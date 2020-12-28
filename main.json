@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":"\/mp3\/Hackerspace_door.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -65,14 +65,27 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"iWBOFHoDsIhV5iBZhXvNPUIARqaCcf46FPh8BAgzNc93hHHG7m"
-                }, 
-                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/mp3\/radio.mp3"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3410, 3410, 3410, 3410, 3410, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3410, 3410, 3410, 3410, 3410, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3410, 3410, 3410, 3410, 3410, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":20,
+         "id":27,
+         "name":"radioBadge",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"mjRBdeO3TvU3qgL0q6IDxvpesRPB9qkhh8ECIC3rb4g5DZbO2B"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -93,7 +106,7 @@
                  "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_scottish-consulate}"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -111,7 +124,7 @@
                  "value":"scotcon"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -129,7 +142,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -147,7 +160,7 @@
                  "value":"https:\/\/twitter.com\/scotconsulate"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -165,7 +178,7 @@
                  "value":"https:\/\/consulate.scot"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -177,7 +190,7 @@
          "name":"floorLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -189,7 +202,7 @@
          "name":"backwalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -201,7 +214,7 @@
          "name":"startfl",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -213,7 +226,7 @@
          "name":"carpets",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -225,7 +238,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -237,7 +250,7 @@
          "name":"deko1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -249,7 +262,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -260,7 +273,7 @@
          "name":"frontwalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -272,12 +285,12 @@
          "name":"deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
         }],
- "nextlayerid":27,
+ "nextlayerid":28,
  "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
