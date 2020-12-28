@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"small.json#start"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_scottish-consulate}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared_heyopeops"
+                 "value":"scotcon"
                 }],
          "type":"tilelayer",
          "visible":true,
