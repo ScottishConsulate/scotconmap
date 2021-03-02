@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_scottish-consulate}"
+                 "value":"https:\/\/raw.githubusercontent.com\/freeside-network\/freeside-station-built\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
