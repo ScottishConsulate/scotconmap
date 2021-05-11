@@ -54,7 +54,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/air.radiorecord.ru:805/hbass_320"
+                 "value":"http:\/\/air.radiorecord.ru:805\/hbass_320"
                 }],
          "type":"tilelayer",
          "visible":true,
