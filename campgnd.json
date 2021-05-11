@@ -54,7 +54,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/u1.happyhardcore.com"
+                 "value":"http:\/\/air.radiorecord.ru:805/hbass_320"
                 }],
          "type":"tilelayer",
          "visible":true,
